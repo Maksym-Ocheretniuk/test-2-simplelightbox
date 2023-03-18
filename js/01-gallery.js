@@ -48,9 +48,7 @@ function onGalleryElementClick(evt) {
   // Створення і відкриття модального вікна
   instance = basicLightbox.create(
     `
-    <div class="modal">
       <img src="${largeImageUrl}" width="800" height="auto">
-    </div>
   `,
     {
       onShow: () => {
