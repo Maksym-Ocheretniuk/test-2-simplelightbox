@@ -1,7 +1,7 @@
 import { galleryItems } from "./gallery-items.js";
 // Change code below this line
 
-console.log(galleryItems);
+// console.log(galleryItems);
 
 // Знаходимо галерею та її елементи "li"
 const galleryEl = document.querySelector(".gallery");
@@ -32,6 +32,8 @@ const lightbox = new SimpleLightbox(".gallery a", {
   // captions: true,
   captionsData: "alt",
   captionDelay: 250,
+  animationSpeed: 500,
+  // overlayOpacity: 0.7,
   // nav: true,
   // close: true,
   // overlay: true,
