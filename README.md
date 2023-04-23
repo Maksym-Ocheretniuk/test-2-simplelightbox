@@ -1,1 +1,1 @@
-# goit-js-hw-07
+# test-2-simplelightbox
