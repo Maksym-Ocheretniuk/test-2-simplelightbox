@@ -106,9 +106,9 @@ export const galleryItems = [
     description:
       "Illustration for the Wimmelbook 'Kindergarten',PET publishing house",
   },
-  {
-    preview: "./images/illustrations/Illustration-20_preview.jpg",
-    original: "./images/illustrations/Illustration-20.jpg",
-    description: "Illustration for the author of the book ''Go to Bed, Ollie''",
-  },
+  // {
+  //   preview: "./images/illustrations/Illustration-20_preview.jpg",
+  //   original: "./images/illustrations/Illustration-20.jpg",
+  //   description: "Illustration for the author of the book ''Go to Bed, Ollie''",
+  // },
 ];
